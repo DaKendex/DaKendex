@@ -17,7 +17,7 @@ I am Kenji, Security Engineer!
 - 💞️ I’m looking to collaborate on `anything`
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DaKendex.DaKendex)
+![Visitor Badge](https://profile-counter.glitch.me/DaKendex/count.svg)
 
 
 <!---
