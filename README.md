@@ -17,6 +17,7 @@ I am Kenji, Cloud Security Engineer!
 - 🌱 I’m currently learning `everything`
 - 💞️ I’m looking to collaborate on `anything`
 
+[![Kenji's GitHub stats](https://github-readme-stats-kenjis-projects-4cd47341.vercel.app/api?username=dakendex)
 
 ![Visitor Badge](https://profile-counter.glitch.me/DaKendex/count.svg)
 
